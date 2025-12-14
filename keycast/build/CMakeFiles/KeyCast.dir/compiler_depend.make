@@ -976,85 +976,23 @@ KeyCast_autogen/timestamp: C:/Users/rob/source/holo/utility/keycast/CMakeLists.t
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveoptintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavesintrin.h \
   C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xtestintrin.h \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompiler.cmake.in \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp \
   C:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CMakeCommonLanguageInclude.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeCompilerIdDetection.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerABI.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerId.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineRCCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineSystem.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeFindBinUtils.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CMakeFindDependencyMacro.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CMakeGenericSystem.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CMakeInitializeConfigs.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CMakeLanguageInformation.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeMinGWFindMake.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeRCCompiler.cmake.in \
   C:/msys64/mingw64/share/cmake/Modules/CMakeRCInformation.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeSystem.cmake.in \
   C:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeTestCXXCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeTestCompilerCommon.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/CMakeTestRCCompiler.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CheckCXXCompilerFlag.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CheckCXXSourceCompiles.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CheckIncludeFileCXX.cmake \
   C:/msys64/mingw64/share/cmake/Modules/CheckLibraryExists.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Diab-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-FindBinUtils.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Renesas-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake \
   C:/msys64/mingw64/share/cmake/Modules/FindPackageHandleStandardArgs.cmake \
   C:/msys64/mingw64/share/cmake/Modules/FindPackageMessage.cmake \
   C:/msys64/mingw64/share/cmake/Modules/FindThreads.cmake \
@@ -1062,18 +1000,14 @@ KeyCast_autogen/timestamp: C:/Users/rob/source/holo/utility/keycast/CMakeLists.t
   C:/msys64/mingw64/share/cmake/Modules/GNUInstallDirs.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCXXLinkerInformation.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeInspectCXXLinker.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Internal/CheckCompilerFlag.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Internal/CheckFlagCommonConfig.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Internal/CheckSourceCompiles.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Internal/FeatureTesting.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Linker/GNU-CXX.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Linker/GNU.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Platform/Linker/GNU.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU-CXX.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU.cmake \
-  C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Determine-CXX.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX.cmake \
   C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU.cmake \
@@ -12191,6 +12125,8 @@ C:/msys64/mingw64/include/qt6/QtWidgets/QFormLayout:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/QHBoxLayout:
 
+C:/msys64/mingw64/include/qt6/QtCore/QFileInfo:
+
 C:/msys64/mingw64/include/qt6/QtCore/QUuid:
 
 C:/msys64/mingw64/include/qt6/QtNetwork/qnetworkdatagram.h:
@@ -12198,88 +12134,6 @@ C:/msys64/mingw64/include/qt6/QtNetwork/qnetworkdatagram.h:
 C:/msys64/mingw64/include/qt6/QtNetwork/QNetworkDatagram:
 
 C:/msys64/mingw64/include/qt6/QtCore/qbuffer.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/QCoreApplication:
-
-C:/msys64/mingw64/include/qt6/QtGui/QPixmap:
-
-C:/msys64/mingw64/include/qt6/QtGui/QGuiApplication:
-
-C:/msys64/mingw64/include/qt6/QtWidgets/qlayoutitem.h:
-
-C:/msys64/mingw64/include/qt6/QtWidgets/qlayout.h:
-
-C:/msys64/mingw64/include/qt6/QtWidgets/QVBoxLayout:
-
-C:/msys64/mingw64/include/qt6/QtCore/QDateTime:
-
-C:/msys64/mingw64/include/qt6/QtCore/QDataStream:
-
-C:/msys64/mingw64/include/qt6/QtGui/qvectornd.h:
-
-C:/msys64/mingw64/include/qt6/QtGui/qvector2d.h:
-
-C:/msys64/mingw64/include/qt6/QtGui/qpointingdevice.h:
-
-C:/msys64/mingw64/include/qt6/QtGui/qeventpoint.h:
-
-C:/msys64/mingw64/include/qt6/QtGui/qevent.h:
-
-C:/msys64/mingw64/include/qt6/QtGui/QWheelEvent:
-
-C:/msys64/mingw64/include/qt6/QtGui/QPainter:
-
-C:/msys64/mingw64/include/qt6/QtGui/QMouseEvent:
-
-C:/msys64/mingw64/include/qt6/QtGui/QKeyEvent:
-
-C:/msys64/mingw64/include/qt6/QtCore/qtimezone.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/qstandardpaths.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/qfiledevice.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/qfile.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/qdirlisting.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/qdir.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/QStandardPaths:
-
-C:/msys64/mingw64/include/qt6/QtCore/QDir:
-
-C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/time_members.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/sstream:
-
-C:/msys64/mingw64/include/c++/15.2.0/locale:
-
-C:/msys64/mingw64/include/c++/15.2.0/ios:
-
-C:/msys64/mingw64/include/c++/15.2.0/cwctype:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/sstream.tcc:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/quoted_string.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets.tcc:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/locale_conv.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/fs_path.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/fs_fwd.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/fs_dir.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.tcc:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.h:
-
-KeyCast_autogen/YPKJ5OE7LN/moc_settingsdialog.cpp:
 
 C:/msys64/mingw64/include/qt6/QtNetwork/qabstractsocket.h:
 
@@ -12298,10 +12152,6 @@ C:/msys64/mingw64/lib/cmake/Qt6/QtInstallPaths.cmake:
 C:/msys64/mingw64/include/qt6/QtGui/qrgba64.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/stl_algobase.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets_nonio.tcc:
-
-C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake:
 
 C:/msys64/mingw64/include/qt6/QtGui/qfontvariableaxis.h:
 
@@ -12359,10 +12209,6 @@ C:/msys64/mingw64/include/qt6/QtCore/qtdeprecationdefinitions.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qtcoreexports.h:
 
-C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.tcc:
-
-C:/msys64/mingw64/include/namedpipeapi.h:
-
 C:/msys64/mingw64/include/qt6/QtCore/qobjectdefs.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qtextstream.h:
@@ -12387,9 +12233,7 @@ C:/msys64/mingw64/include/qt6/QtCore/qprocess.h:
 
 C:/msys64/mingw64/include/qt6/QtGui/qguiapplication_platform.h:
 
-C:/msys64/mingw64/include/qt6/QtGui/qpainter.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/QMap:
+C:/msys64/mingw64/include/qt6/QtGui/qvectornd.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qoverload.h:
 
@@ -12399,21 +12243,15 @@ C:/msys64/mingw64/include/qt6/QtCore/qsharedpointer.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qobjectdefs_impl.h:
 
-C:/msys64/mingw64/include/c++/15.2.0/istream:
-
-C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets.cmake:
-
 C:/msys64/mingw64/include/qt6/QtCore/qobject_impl.h:
-
-C:/msys64/mingw64/include/qt6/QtGui/QResizeEvent:
-
-C:/msys64/mingw64/include/qt6/QtGui/qimage.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qnumeric.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qnativeinterface.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qminmax.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets.tcc:
 
 C:/msys64/mingw64/include/qt6/QtCore/qmetatype.h:
 
@@ -12487,6 +12325,8 @@ C:/msys64/mingw64/include/qt6/QtCore/QObject:
 
 C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginTargets.cmake:
 
+C:/msys64/mingw64/include/math.h:
+
 C:/msys64/mingw64/include/qt6/QtCore/qcoreapplication.h:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/QApplication:
@@ -12505,10 +12345,6 @@ C:/msys64/mingw64/include/qt6/QtCore/qcalendar.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qbytearrayview.h:
 
-C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets_nonio.h:
-
-C:/msys64/mingw64/include/_mingw_mac.h:
-
 C:/msys64/mingw64/include/qt6/QtCore/qbytearraylist.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwithdebinfo.cmake:
@@ -12516,6 +12352,10 @@ C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginTargets-relwit
 C:/msys64/mingw64/include/rpcnsip.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/functional:
+
+C:/msys64/mingw64/include/qt6/QtGui/QScreen:
+
+C:/msys64/mingw64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512minmaxintrin.h:
 
@@ -12571,6 +12411,8 @@ C:/msys64/mingw64/include/qt6/QtNetwork/QSslCertificate:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/stl_tree.h:
 
+C:/msys64/mingw64/include/qt6/QtCore/QPoint:
+
 C:/msys64/mingw64/include/qt6/QtCore/qtmetamacros.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qeventloop.h:
@@ -12578,6 +12420,8 @@ C:/msys64/mingw64/include/qt6/QtCore/qeventloop.h:
 C:/msys64/mingw64/include/qt6/QtCore/qxptype_traits.h:
 
 C:/Users/rob/source/holo/utility/keycast/src/input/inputcapture.cpp:
+
+C:/msys64/mingw64/include/qt6/QtCore/QFlags:
 
 C:/msys64/mingw64/include/pshpack2.h:
 
@@ -12605,11 +12449,15 @@ C:/msys64/mingw64/include/psdk_inc/_ip_mreq1.h:
 
 C:/msys64/mingw64/include/prsht.h:
 
+C:/msys64/mingw64/include/qt6/QtCore/QDateTime:
+
 C:/msys64/mingw64/include/qt6/QtCore/qhashfunctions.h:
 
 C:/msys64/mingw64/include/processthreadsapi.h:
 
 C:/msys64/mingw64/include/mmsyscom.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.tcc:
 
 C:/msys64/mingw64/include/qt6/QtGui/qtextformat.h:
 
@@ -12620,6 +12468,8 @@ C:/msys64/mingw64/include/qt6/QtCore/qmalloc.h:
 C:/msys64/mingw64/include/processenv.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/erase_if.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/stl_numeric.h:
 
 C:/msys64/mingw64/include/objidl.h:
 
@@ -12647,8 +12497,6 @@ C:/msys64/mingw64/include/_bsd_types.h:
 
 C:/msys64/mingw64/include/rpcsal.h:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Renesas-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/mmiscapi.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/hash_bytes.h:
@@ -12667,15 +12515,11 @@ C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6QTuioTouchPluginAdditionalTargetInfo.cmake
 
 C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginConfig.cmake:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/PathScale-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/_mingw.h:
 
 C:/msys64/mingw64/include/malloc.h:
 
 C:/msys64/mingw64/include/lzexpand.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/qwidget.h:
 
@@ -12689,25 +12533,19 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2convertintrin
 
 C:/msys64/mingw64/include/qt6/QtCore/qforeach.h:
 
-C:/msys64/mingw64/include/qt6/QtGui/QScreen:
-
-C:/msys64/mingw64/lib/cmake/Qt6Widgets/Qt6WidgetsDependencies.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake:
-
 KeyCast_autogen/NNGSYZYP4R/moc_inputcapture.cpp:
 
 C:/msys64/mingw64/include/qt6/QtGui/qinputmethod.h:
 
 C:/msys64/mingw64/include/limits.h:
 
+C:/msys64/mingw64/include/joystickapi.h:
+
 C:/msys64/mingw64/include/qt6/QtCore/qtversion.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6GuiTools/Qt6GuiToolsConfig.cmake:
 
 C:/msys64/mingw64/include/jobapi.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Watcom-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/include/ioapiset.h:
 
@@ -12737,8 +12575,6 @@ C:/msys64/mingw64/include/qt6/QtCore/qgenericatomic.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vlintrin.h:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Clang-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/qt6/QtCore/qbytearrayalgorithms.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/stl_construct.h:
@@ -12761,8 +12597,6 @@ C:/Users/rob/source/holo/utility/keycast/src/core/settings.h:
 
 C:/msys64/mingw64/include/servprov.h:
 
-C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/qt6/QtCore/qspan.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/system_error:
@@ -12772,8 +12606,6 @@ C:/msys64/mingw64/include/c++/15.2.0/bits/range_access.h:
 C:/msys64/mingw64/include/c++/15.2.0/bits/parse_numbers.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/cwchar:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/IAR-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/include/qt6/QtCore/qiodevice.h:
 
@@ -12786,10 +12618,6 @@ C:/msys64/mingw64/include/psdk_inc/_socket_types.h:
 C:/msys64/mingw64/include/stdlib.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vp2intersectvlintrin.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/codecvt:
-
-C:/msys64/mingw64/include/qt6/QtCore/qtmocconstants.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/q17memory.h:
 
@@ -12827,12 +12655,6 @@ C:/msys64/mingw64/include/c++/15.2.0/limits:
 
 C:/Users/rob/source/holo/utility/keycast/src/network/discovery.cpp:
 
-C:/msys64/mingw64/include/math.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/ARMClang-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeParseLibraryArchitecture.cmake:
-
 C:/msys64/mingw64/include/c++/15.2.0/bits/exception.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/memoryfwd.h:
@@ -12853,6 +12675,8 @@ C:/msys64/mingw64/include/qt6/QtCore/QTimer:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/cxxabi_forced.h:
 
+C:/msys64/mingw64/include/qt6/QtGui/qevent.h:
+
 C:/Users/rob/source/holo/utility/keycast/src/ui/mainwindow.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qbasicatomic.h:
@@ -12860,6 +12684,8 @@ C:/msys64/mingw64/include/qt6/QtCore/qbasicatomic.h:
 C:/Users/rob/source/holo/utility/keycast/src/network/client.h:
 
 C:/msys64/mingw64/include/qt6/QtNetwork/qudpsocket.h:
+
+C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets-relwithdebinfo.cmake:
 
 C:/msys64/mingw64/include/qt6/QtGui/qtransform.h:
 
@@ -12872,6 +12698,10 @@ C:/msys64/mingw64/include/c++/15.2.0/bits/atomic_lockfree_defines.h:
 C:/msys64/mingw64/include/qt6/QtNetwork/QSslKey:
 
 C:/msys64/mingw64/include/c++/15.2.0/ext/alloc_traits.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/qcompilerdetection.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/qatomic_cxx11.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qtresource.h:
 
@@ -12888,6 +12718,8 @@ C:/Users/rob/source/holo/utility/keycast/src/network/protocol.cpp:
 C:/msys64/mingw64/include/qt6/QtCore/QVariant:
 
 C:/msys64/mingw64/include/qt6/QtCore/qexceptionhandling.h:
+
+C:/msys64/mingw64/include/qt6/QtWidgets/qlayout.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/atomic_futex.h:
 
@@ -12907,6 +12739,8 @@ C:/msys64/mingw64/include/qt6/QtWidgets/qstyleoption.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/cpp_type_traits.h:
 
+C:/msys64/mingw64/include/c++/15.2.0/bits/fs_fwd.h:
+
 C:/msys64/mingw64/include/qt6/QtGui/qtextoption.h:
 
 C:/msys64/mingw64/include/qt6/QtNetwork/qsslcertificate.h:
@@ -12915,11 +12749,15 @@ C:/msys64/mingw64/include/psdk_inc/_fd_types.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mwaitxintrin.h:
 
+C:/msys64/mingw64/include/c++/15.2.0/ios:
+
 C:/msys64/mingw64/include/qt6/QtNetwork/QSslConfiguration:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/c++/15.2.0/bits/string_view.tcc:
+
+C:/msys64/mingw64/include/qt6/QtGui/qimage.h:
+
+C:/msys64/mingw64/include/qt6/QtGui/QResizeEvent:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/qstyle.h:
 
@@ -12971,17 +12809,13 @@ C:/msys64/mingw64/include/c++/15.2.0/bits/requires_hosted.h:
 
 C:/msys64/mingw64/include/basetsd.h:
 
+C:/msys64/mingw64/include/qt6/QtCore/qfile.h:
+
 C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6QJpegPluginAdditionalTargetInfo.cmake:
 
 C:/Users/rob/source/holo/utility/keycast/src/core/application.h:
 
 C:/msys64/mingw64/share/cmake/Modules/FindThreads.cmake:
-
-C:/msys64/mingw64/include/qt6/QtGui/QCloseEvent:
-
-C:/msys64/mingw64/include/qt6/QtCore/qtconfigmacros.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/predefined_ops.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/std_function.h:
 
@@ -13021,12 +12855,6 @@ C:/Users/rob/source/holo/utility/keycast/src/ui/systemtray.cpp:
 
 C:/msys64/mingw64/include/consoleapi3.h:
 
-C:/msys64/mingw64/include/qt6/QtCore/qfileinfo.h:
-
-C:/msys64/mingw64/include/winerror.h:
-
-C:/msys64/mingw64/include/combaseapi.h:
-
 C:/Users/rob/source/holo/utility/keycast/src/core/application.cpp:
 
 C:/msys64/mingw64/include/bcrypt.h:
@@ -13034,10 +12862,6 @@ C:/msys64/mingw64/include/bcrypt.h:
 C:/msys64/mingw64/include/c++/15.2.0/bits/stringfwd.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/tr1/poly_laguerre.tcc:
-
-C:/msys64/mingw64/include/qt6/QtCore/QFlags:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/TIClang-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveoptintrin.h:
 
@@ -13049,7 +12873,9 @@ C:/Users/rob/source/holo/utility/keycast/src/desktop/screencapture.cpp:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/unique_lock.h:
 
-C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake:
+C:/msys64/mingw64/include/qt6/QtCore/qsystemdetection.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/string:
 
 C:/msys64/mingw64/share/cmake/Modules/Platform/WindowsPaths.cmake:
 
@@ -13077,6 +12903,8 @@ C:/msys64/mingw64/include/c++/15.2.0/bits/vector.tcc:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/enable_special_members.h:
 
+C:/msys64/mingw64/include/qt6/QtGui/QGuiApplication:
+
 C:/msys64/mingw64/include/qt6/QtNetwork/QNetworkInterface:
 
 C:/Users/rob/source/holo/utility/keycast/CMakeLists.txt:
@@ -13087,17 +12915,11 @@ C:/msys64/mingw64/include/qt6/QtCore/qobject.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6QGifPluginAdditionalTargetInfo.cmake:
 
-C:/msys64/mingw64/include/qt6/QtCore/QPoint:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake:
-
 CMakeFiles/4.2.0/CMakeSystem.cmake:
 
 C:/msys64/mingw64/include/realtimeapiset.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qttranslation.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/PGI-DetermineCompiler.cmake:
 
 C:/Users/rob/source/holo/utility/keycast/src/desktop/remotedesktopwidget.cpp:
 
@@ -13119,23 +12941,11 @@ C:/msys64/mingw64/include/qt6/QtCore/qcoreapplication_platform.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qitemselectionmodel.h:
 
-C:/msys64/mingw64/include/c++/15.2.0/bits/istream.tcc:
-
-C:/msys64/mingw64/include/rpcasync.h:
-
-C:/msys64/mingw64/include/wctype.h:
-
-C:/Users/rob/source/holo/utility/keycast/src/desktop/remotedesktopwindow.cpp:
-
 C:/msys64/mingw64/include/qt6/QtCore/qconfig.h:
 
 C:/msys64/mingw64/include/qt6/QtGui/QTransform:
 
 C:/msys64/mingw64/include/c++/15.2.0/mutex:
-
-C:/msys64/mingw64/include/c++/15.2.0/ostream:
-
-C:/msys64/mingw64/include/qt6/QtWidgets/QTabWidget:
 
 C:/Users/rob/source/holo/utility/keycast/src/desktop/remotedesktopwindow.h:
 
@@ -13146,6 +12956,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bf16vlintrin.h
 C:/msys64/mingw64/share/cmake/Modules/CheckCXXCompilerFlag.cmake:
 
 C:/msys64/mingw64/include/qt6/QtCore/qcontainertools_impl.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/qfiledevice.h:
 
 C:/msys64/mingw64/include/mcx.h:
 
@@ -13193,9 +13005,9 @@ C:/msys64/mingw64/include/c++/15.2.0/bits/basic_string.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/qvariant.h:
 
-C:/msys64/mingw64/include/qt6/QtCore/QFileInfo:
+C:/msys64/mingw64/include/qt6/QtCore/QMap:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake:
+C:/msys64/mingw64/include/qt6/QtGui/qpainter.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/postypes.h:
 
@@ -13240,12 +13052,6 @@ C:/msys64/mingw64/include/c++/15.2.0/bits/uses_allocator.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vbmi2vlintrin.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake:
-
-C:/msys64/mingw64/include/qt6/QtCore/qcompilerdetection.h:
-
-C:/msys64/mingw64/include/qt6/QtCore/qatomic_cxx11.h:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompiler.cmake.in:
 
 C:/Users/rob/source/holo/utility/keycast/src/core/settings.cpp:
 
@@ -13295,10 +13101,6 @@ C:/msys64/mingw64/include/qt6/QtCore/qlogging.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/tr1/exp_integral.tcc:
 
-C:/msys64/mingw64/include/qt6/QtWidgets/qgridlayout.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/chrono.h:
-
 C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.h:
 
 C:/msys64/mingw64/include/pthread_time.h:
@@ -13322,8 +13124,6 @@ C:/msys64/mingw64/include/c++/15.2.0/bits/stl_set.h:
 C:/msys64/mingw64/include/qt6/QtWidgets/qtoolbar.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/hashtable.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/HP-CXX-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/include/msxml.h:
 
@@ -13369,8 +13169,6 @@ C:/msys64/mingw64/include/c++/15.2.0/cassert:
 
 C:/msys64/mingw64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateConfigVersion.cmake:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Clang-DetermineCompilerInternal.cmake:
-
 C:/msys64/mingw64/include/qt6/QtGui/qpolygon.h:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/qcombobox.h:
@@ -13379,13 +13177,13 @@ C:/msys64/mingw64/include/qt6/QtNetwork/QHostAddress:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/qframe.h:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/ARMCC-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/qt6/QtCore/qtcoreglobal.h:
 
 C:/Users/rob/source/holo/utility/keycast/src/shortcuts/shortcutmanager.cpp:
 
 C:/msys64/mingw64/include/c++/15.2.0/cerrno:
+
+C:/msys64/mingw64/include/qt6/QtCore/QDir:
 
 C:/msys64/mingw64/include/oleidl.h:
 
@@ -13408,6 +13206,10 @@ C:/msys64/mingw64/include/c++/15.2.0/cmath:
 C:/msys64/mingw64/include/driverspecs.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/condition_variable:
+
+C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets_nonio.tcc:
 
 C:/msys64/mingw64/include/c++/15.2.0/cstdio:
 
@@ -13434,10 +13236,6 @@ C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6QICOPluginTargets-relwithdebinfo.cmake:
 C:/msys64/mingw64/include/c++/15.2.0/ctime:
 
 C:/Users/rob/source/holo/utility/keycast/src/network/server.cpp:
-
-C:/msys64/mingw64/include/qt6/QtCore/QBuffer:
-
-C:/msys64/mingw64/include/dpapi.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/debug/assertions.h:
 
@@ -13467,6 +13265,10 @@ C:/msys64/mingw64/include/c++/15.2.0/compare:
 
 C:/msys64/mingw64/include/qt6/QtCore/qpair.h:
 
+C:/msys64/mingw64/include/qt6/QtCore/QSize:
+
+C:/msys64/mingw64/include/qt6/QtCore/qdebug.h:
+
 C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/c++config.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/allocator.h:
@@ -13478,8 +13280,6 @@ C:/msys64/mingw64/include/c++/15.2.0/ext/type_traits.h:
 C:/msys64/mingw64/include/qt6/QtNetwork/qhostaddress.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6/QtPublicSbomFileHelpers.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineSystem.cmake:
 
 C:/msys64/mingw64/include/qt6/QtCore/qstringlist.h:
 
@@ -13497,10 +13297,6 @@ C:/Users/rob/source/holo/utility/keycast/src/ui/systemtray.h:
 
 C:/msys64/mingw64/include/c++/15.2.0/map:
 
-C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_base.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
-
 C:/msys64/mingw64/include/c++/15.2.0/optional:
 
 C:/msys64/mingw64/lib/cmake/Qt6/Qt6Dependencies.cmake:
@@ -13512,6 +13308,8 @@ C:/msys64/mingw64/include/heapapi.h:
 C:/msys64/mingw64/include/c++/15.2.0/pstl/execution_defs.h:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/qcheckbox.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/QStandardPaths:
 
 C:/msys64/mingw64/include/qt6/QtCore/qtmochelpers.h:
 
@@ -13571,9 +13369,15 @@ C:/msys64/mingw64/include/c++/15.2.0/tr1/hypergeometric.tcc:
 
 C:/msys64/mingw64/include/c++/15.2.0/tr1/legendre_function.tcc:
 
+C:/msys64/mingw64/include/dpapi.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/QBuffer:
+
 C:/msys64/mingw64/include/qt6/QtCore/qshareddata.h:
 
 C:/msys64/mingw64/include/qt6/QtCore/q20iterator.h:
+
+C:/msys64/mingw64/share/cmake/Modules/Platform/Linker/GNU.cmake:
 
 C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6QJpegPluginConfig.cmake:
 
@@ -13601,6 +13405,8 @@ C:/msys64/mingw64/include/qt6/QtCore/qcontainerinfo.h:
 
 C:/msys64/mingw64/include/qt6/QtGui/qicon.h:
 
+C:/msys64/mingw64/include/qt6/QtWidgets/qlayoutitem.h:
+
 C:/msys64/mingw64/include/c++/15.2.0/cstdlib:
 
 C:/msys64/mingw64/lib/cmake/Qt6/QtFeature.cmake:
@@ -13619,12 +13425,6 @@ C:/msys64/mingw64/include/c++/15.2.0/climits:
 
 C:/msys64/mingw64/include/cderr.h:
 
-C:/msys64/mingw64/include/qt6/QtCore/QSize:
-
-C:/msys64/mingw64/include/qt6/QtCore/qdebug.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/XL-CXX-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/corecrt.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6/FindWrapAtomic.cmake:
@@ -13633,7 +13433,11 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/clzerointrin.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QGlibNetworkInformationPluginTargets.cmake:
 
+C:/msys64/mingw64/include/qt6/QtCore/QCoreApplication:
+
 C:/msys64/mingw64/include/corecrt_startup.h:
+
+C:/msys64/mingw64/include/qt6/QtGui/qpointingdevice.h:
 
 C:/msys64/mingw64/include/dde.h:
 
@@ -13683,10 +13487,6 @@ C:/msys64/mingw64/include/qt6/QtWidgets/QMainWindow:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/QPushButton:
 
-C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QSchannelBackendPluginTargets-relwithdebinfo.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/c++/15.2.0/bits/stl_uninitialized.h:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/QStatusBar:
@@ -13718,6 +13518,10 @@ C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QNLMNIPluginConfig.cmake:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/prfchwintrin.h:
 
 KeyCast_autogen/3N2IXNCHLN/moc_remotedesktopwidget.cpp:
+
+C:/msys64/mingw64/include/_mingw_mac.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets_nonio.h:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/qlistview.h:
 
@@ -13781,6 +13585,8 @@ C:/msys64/mingw64/include/sal.h:
 
 C:/msys64/mingw64/include/sched.h:
 
+C:/msys64/mingw64/include/sdks/_mingw_ddk.h:
+
 C:/msys64/mingw64/include/qt6/QtNetwork/qnetworkinterface.h:
 
 C:/msys64/mingw64/include/sec_api/stdio_s.h:
@@ -13827,8 +13633,6 @@ C:/msys64/mingw64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake:
 
 C:/msys64/mingw64/include/timeapi.h:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Tasking-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/timezoneapi.h:
 
 C:/msys64/mingw64/include/tvout.h:
@@ -13861,13 +13665,13 @@ C:/msys64/mingw64/include/qt6/QtWidgets/QSystemTrayIcon:
 
 C:/msys64/mingw64/include/wincontypes.h:
 
+C:/msys64/mingw64/include/qt6/QtCore/qtimezone.h:
+
 C:/msys64/mingw64/include/wincrypt.h:
 
+C:/msys64/mingw64/include/qt6/QtGui/qvector2d.h:
+
 C:/msys64/mingw64/include/windows.h:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeCXXCompilerABI.cpp:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Fujitsu-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/include/wingdi.h:
 
@@ -13881,11 +13685,13 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqvlint
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/fma4intrin.h:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/c++/15.2.0/bits/stl_raw_storage_iter.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/keylockerintrin.h:
+
+C:/msys64/mingw64/include/qt6/QtGui/QMouseEvent:
+
+C:/msys64/mingw64/include/qt6/QtGui/QWheelEvent:
 
 C:/msys64/mingw64/include/c++/15.2.0/bits/invoke.h:
 
@@ -13898,8 +13704,6 @@ C:/msys64/mingw64/lib/cmake/Qt6/QtPublicSbomDepHelpers.cmake:
 C:/msys64/mingw64/include/c++/15.2.0/iterator:
 
 C:/msys64/mingw64/include/winnls.h:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeParseImplicitIncludeInfo.cmake:
 
 C:/msys64/mingw64/include/winscard.h:
 
@@ -13925,6 +13729,8 @@ C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6NetworkAdditionalTargetInfo.cmake:
 
 C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6NetworkDependencies.cmake:
 
+C:/msys64/mingw64/share/cmake/Modules/Internal/CheckCompilerFlag.cmake:
+
 C:/msys64/mingw64/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake:
 
 C:/msys64/mingw64/lib/cmake/Qt6/Qt6Config.cmake:
@@ -13941,8 +13747,6 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6/Qt6Targets.cmake:
 
-C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake:
-
 C:/msys64/mingw64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake:
 
 C:/msys64/mingw64/lib/cmake/Qt6/QtFeatureCommon.cmake:
@@ -13956,8 +13760,6 @@ C:/msys64/mingw64/lib/cmake/Qt6/QtPublicAndroidHelpers.cmake:
 C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU.cmake:
 
 C:/msys64/mingw64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Embarcadero-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/include/minwinbase.h:
 
@@ -13976,10 +13778,6 @@ C:/msys64/mingw64/lib/cmake/Qt6/QtPublicPluginHelpers_v2.cmake:
 C:/msys64/mingw64/include/c++/15.2.0/bits/stl_iterator.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/adxintrin.h:
-
-C:/msys64/mingw64/include/joystickapi.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/TI-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/include/qt6/QtWidgets/qdialog.h:
 
@@ -14065,17 +13863,7 @@ C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Initialize.cmake:
 
 C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiAdditionalTargetInfo.cmake:
 
-C:/msys64/mingw64/include/qt6/QtGui/qinputdevice.h:
-
-C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bf16intrin.h:
-
 C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Internal/CheckCompilerFlag.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU-FindBinUtils.cmake:
 
 C:/msys64/mingw64/lib/cmake/Qt6EntryPointPrivate/Qt6EntryPointPrivateTargets.cmake:
 
@@ -14086,10 +13874,6 @@ C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiConfigVersion.cmake:
 C:/msys64/mingw64/include/c++/15.2.0/bits/version.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiConfigVersionImpl.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeFindBinUtils.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineRCCompiler.cmake:
 
 C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake:
 
@@ -14151,6 +13935,8 @@ C:/msys64/mingw64/include/qt6/QtWidgets/qsizepolicy.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/cetintrin.h:
 
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xtestintrin.h:
+
 C:/msys64/mingw64/include/qt6/QtGui/qguiapplication.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake:
@@ -14164,6 +13950,8 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/wmmintrin.h:
 C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_inline.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6NetworkConfigVersionImpl.cmake:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/fs_path.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake:
 
@@ -14180,6 +13968,8 @@ C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginTargets-relwi
 C:/Users/rob/source/holo/utility/keycast/src/ui/settingsdialog.h:
 
 C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QTlsBackendOpenSSLPluginAdditionalTargetInfo.cmake:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/sstream.tcc:
 
 C:/msys64/mingw64/include/qt6/QtNetwork/QSslSocket:
 
@@ -14236,10 +14026,6 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavecintrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512convertintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx10_2-512mediaintrin.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Platform/Linker/GNU.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/include/qt6/QtGui/qtextdocument.h:
 
@@ -14303,6 +14089,8 @@ C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QTlsBackendCertOnlyPluginAdditionalTar
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512vpopcntdqintrin.h:
 
+C:/msys64/mingw64/include/qt6/QtWidgets/QVBoxLayout:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxifmaintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avxintrin.h:
@@ -14332,10 +14120,6 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/gfniintrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/hresetintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/lwpintrin.h:
-
-KeyCast_autogen/YPKJ5OE7LN/moc_systemtray.cpp:
-
-C:/msys64/mingw64/share/cmake/Modules/CheckIncludeFileCXX.cmake:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/lzcntintrin.h:
 
@@ -14369,8 +14153,6 @@ C:/msys64/mingw64/include/qt6/QtWidgets/QDialog:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/rdseedintrin.h:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Diab-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/serializeintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sha512intrin.h:
@@ -14384,6 +14166,12 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sm3intrin.h:
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/sm4intrin.h:
 
 C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX.cmake:
+
+C:/msys64/mingw64/include/namedpipeapi.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/ostream.tcc:
+
+C:/msys64/mingw64/include/qt6/QtGui/QPixmap:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/smmintrin.h:
 
@@ -14413,33 +14201,17 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsaveintrin.h:
 
 KeyCast_autogen/3N2IXNCHLN/moc_remotedesktopwindow.cpp:
 
+C:/msys64/mingw64/include/c++/15.2.0/bits/locale_facets.h:
+
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xopintrin.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xsavesintrin.h:
 
 C:/msys64/mingw64/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake:
 
-C:/msys64/mingw64/share/cmake/Modules/CMakeCompilerIdDetection.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerABI.cmake:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/xtestintrin.h:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerId.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeDetermineCompilerSupport.cmake:
-
 C:/msys64/mingw64/share/cmake/Modules/CMakeGenericSystem.cmake:
 
 C:/msys64/mingw64/share/cmake/Modules/CMakeInitializeConfigs.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeMinGWFindMake.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeRCCompiler.cmake.in:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeSystem.cmake.in:
 
 C:/msys64/mingw64/include/sec_api/stralign_s.h:
 
@@ -14447,65 +14219,13 @@ C:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake:
 
 C:/msys64/mingw64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake:
 
-C:/msys64/mingw64/share/cmake/Modules/CMakeTestCXXCompiler.cmake:
-
-C:/msys64/mingw64/include/qt6/QtCore/qsystemdetection.h:
-
-C:/msys64/mingw64/include/c++/15.2.0/string:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeTestCompilerCommon.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeTestRCCompiler.cmake:
-
 C:/msys64/mingw64/include/qt6/QtGui/qpixelformat.h:
 
 C:/msys64/mingw64/share/cmake/Modules/CheckLibraryExists.cmake:
 
-C:/msys64/mingw64/share/cmake/Modules/Compiler/ADSP-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/AppleClang-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/messages_members.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Borland-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/include/winsmcrd.h:
-
-C:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake:
-
-C:/msys64/mingw64/include/qt6/QtCore/qmath.h:
-
-C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Cray-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/CrayClang-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/GHS-DetermineCompiler.cmake:
-
 C:/msys64/mingw64/include/qt6/QtWidgets/qlineedit.h:
 
 C:/msys64/mingw64/share/cmake/Modules/Compiler/GNU.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/MSVC-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/stl_numeric.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/NVHPC-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/NVIDIA-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/OrangeC-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/SCO-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/share/cmake/Modules/FindPackageHandleStandardArgs.cmake:
 
@@ -14523,25 +14243,11 @@ C:/msys64/mingw64/share/cmake/Modules/Platform/Linker/Windows-GNU.cmake:
 
 C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeCommonLinkerInformation.cmake:
 
-C:/msys64/mingw64/share/cmake/Modules/Internal/CMakeInspectCXXLinker.cmake:
-
 C:/msys64/mingw64/share/cmake/Modules/Internal/CheckSourceCompiles.cmake:
-
-C:/msys64/mingw64/include/sdks/_mingw_ddk.h:
-
-C:/msys64/mingw64/share/cmake/Modules/Internal/FeatureTesting.cmake:
-
-C:/msys64/mingw64/include/c++/15.2.0/bits/specfun.h:
-
-KeyCast_autogen/PRMOGMWJPH/moc_application.cpp:
-
-C:/msys64/mingw64/share/cmake/Modules/Compiler/Intel-DetermineCompiler.cmake:
 
 C:/msys64/mingw64/share/cmake/Modules/Linker/GNU-CXX.cmake:
 
 C:/msys64/mingw64/share/cmake/Modules/Linker/GNU.cmake:
-
-C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-Determine-CXX.cmake:
 
 C:/msys64/mingw64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake:
 
@@ -14561,12 +14267,108 @@ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdarg.h:
 
 C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h:
 
+C:/msys64/mingw64/include/winsmcrd.h:
+
+C:/msys64/mingw64/share/cmake/Modules/CMakeCXXInformation.cmake:
+
+C:/msys64/mingw64/include/qt6/QtCore/qmath.h:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h:
+
 KeyCast_autogen/HTWIXXCOQX/moc_shortcutmanager.cpp:
 
 KeyCast_autogen/NNGSYZYP4R/moc_inputinjector.cpp:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/specfun.h:
+
+KeyCast_autogen/PRMOGMWJPH/moc_application.cpp:
 
 KeyCast_autogen/PRMOGMWJPH/moc_settings.cpp:
 
 KeyCast_autogen/UFQQIFJZKK/moc_client.cpp:
 
 KeyCast_autogen/YPKJ5OE7LN/moc_connectionwidget.cpp:
+
+KeyCast_autogen/YPKJ5OE7LN/moc_settingsdialog.cpp:
+
+C:/msys64/mingw64/share/cmake/Modules/CheckIncludeFileCXX.cmake:
+
+KeyCast_autogen/YPKJ5OE7LN/moc_systemtray.cpp:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/basic_ios.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/fs_dir.h:
+
+C:/msys64/mingw64/include/rpcasync.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/istream.tcc:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/locale_conv.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/quoted_string.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/qtmocconstants.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/codecvt:
+
+C:/msys64/mingw64/include/c++/15.2.0/cwctype:
+
+C:/msys64/mingw64/lib/cmake/Qt6Network/Qt6QNLMNIPluginTargets.cmake:
+
+C:/msys64/mingw64/include/c++/15.2.0/istream:
+
+C:/msys64/mingw64/include/c++/15.2.0/locale:
+
+C:/msys64/mingw64/include/qt6/QtWidgets/QTabWidget:
+
+C:/msys64/mingw64/include/c++/15.2.0/ostream:
+
+C:/msys64/mingw64/include/c++/15.2.0/sstream:
+
+C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/cpu_defines.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/ctype_base.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/messages_members.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/x86_64-w64-mingw32/bits/time_members.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/qdir.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/qdirlisting.h:
+
+C:/msys64/mingw64/include/winerror.h:
+
+C:/msys64/mingw64/include/combaseapi.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/qfileinfo.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/qstandardpaths.h:
+
+C:/Users/rob/source/holo/utility/keycast/src/desktop/remotedesktopwindow.cpp:
+
+C:/msys64/mingw64/include/wctype.h:
+
+C:/msys64/mingw64/include/qt6/QtGui/QKeyEvent:
+
+C:/msys64/mingw64/include/qt6/QtGui/QPainter:
+
+C:/msys64/mingw64/include/qt6/QtGui/qeventpoint.h:
+
+C:/msys64/mingw64/lib/cmake/Qt6Gui/Qt6QMinimalIntegrationPluginTargets-relwithdebinfo.cmake:
+
+C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/avx512bf16intrin.h:
+
+C:/msys64/mingw64/include/qt6/QtGui/qinputdevice.h:
+
+C:/msys64/mingw64/include/qt6/QtCore/QDataStream:
+
+C:/msys64/mingw64/include/qt6/QtCore/qtconfigmacros.h:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/predefined_ops.h:
+
+C:/msys64/mingw64/include/qt6/QtGui/QCloseEvent:
+
+C:/msys64/mingw64/include/c++/15.2.0/bits/chrono.h:
+
+C:/msys64/mingw64/include/qt6/QtWidgets/qgridlayout.h:

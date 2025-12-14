@@ -117,8 +117,11 @@ void Application::loadSettings()
     m_shortcutManager->loadShortcuts();
 
     // Show main window unless start minimized
+    // Always use showNormal() to ensure window is visible and not minimized
     if (!settings->startMinimized()) {
-        m_mainWindow->show();
+        m_mainWindow->showNormal();
+        m_mainWindow->activateWindow();
+        m_mainWindow->raise();
     }
 
     // Always show system tray

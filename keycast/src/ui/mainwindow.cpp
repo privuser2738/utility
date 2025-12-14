@@ -297,14 +297,25 @@ void MainWindow::loadSettings()
         restoreState(settings->windowState());
     }
 
+    // Ensure window is not minimized on startup - always start in normal state
+    if (isMinimized()) {
+        setWindowState(windowState() & ~Qt::WindowMinimized);
+    }
+
     refreshServerList();
 }
 
 void MainWindow::saveSettings()
 {
     Settings* settings = Settings::instance();
-    settings->setWindowGeometry(saveGeometry());
-    settings->setWindowState(saveState());
+
+    // Only save geometry if window is visible and not minimized
+    // This prevents saving a hidden/minimized state that would persist on restart
+    if (isVisible() && !isMinimized()) {
+        settings->setWindowGeometry(saveGeometry());
+        settings->setWindowState(saveState());
+    }
+
     settings->sync();
 }
 
