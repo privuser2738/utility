@@ -1,7 +1,15 @@
 {
   "permissions": {
     "allow": [
-      "Bash(gh repo edit:*)"
+      "Bash(gh repo edit:*)",
+      "Bash(cmd //c:*)",
+      "Bash(C:/Users/rob/source/holo/utility/keycast/build.bat --clean)",
+      "Bash(C:/Users/rob/source/holo/utility/keycast/build.bat)",
+      "Bash(./build.bat --clean)",
+      "Bash(taskkill:*)",
+      "Bash(cmd /c:*)",
+      "Bash(tasklist:*)",
+      "Bash(./build.bat)"
     ],
     "deny": [],
     "ask": []
