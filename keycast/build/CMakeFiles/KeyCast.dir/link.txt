@@ -1,0 +1,3 @@
+C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\KeyCast.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\KeyCast.dir/objects.a @CMakeFiles\KeyCast.dir\objects1.rsp
+C:\msys64\mingw64\bin\c++.exe -O3 -DNDEBUG  -static-libgcc -static-libstdc++ -mwindows -Wl,--whole-archive CMakeFiles\KeyCast.dir/objects.a -Wl,--no-whole-archive -o C:\Users\rob\source\holo\utility\keycast\dist\KeyCast.exe -Wl,--out-implib,libKeyCast.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\KeyCast.dir\linkLibs.rsp
